@@ -1,0 +1,81 @@
+Career-Oriented Data Analytics Lessons
+
+🎯 Lesson 1: Building a Data Analytics Portfolio
+==================================================
+Summary:
+Your portfolio is proof of skill. It should showcase projects, case studies, and dashboards.
+What to include:
+-----------------
+GitHub Repositories (Python, SQL, Power BI projects)
+Live dashboards (Power BI or Tableau Public)
+Case studies (EDA, Business Insights, Predictive Models)
+
+Example:
+📊 “Sales Insights Dashboard – Power BI” showing regional growth + SQL queries used.
+
+Video: Build a Data Analyst Portfolio (10 min)
+
+
+🧠 Lesson 2: Resume Analytics for Data Roles
+================================================
+Summary:
+A great resume passes both human eyes and ATS filters.
+Tips:
+---------
+Use keywords: SQL, Power BI, Excel, Python, EDA
+Highlight metrics: “Reduced reporting time by 30%”
+Keep it 1 page and clean layout
+
+Example:
+✅ “Built automated Python dashboard reducing monthly report effort from 5 hours to 30 minutes.”
+
+Video: Data Analyst Resume Tips (12 min)
+
+
+💬 Lesson 3: Interview Skills for Data Analysts
+====================================================
+Summary:
+Interviews test both technical knowledge and storytelling.
+Practice topics:
+SQL queries
+Data cleaning logic
+Scenario questions: “How would you handle missing data?”
+Communicating insights clearly
+
+Example:
+Question: “What’s the difference between INNER JOIN and LEFT JOIN?”
+Answer: INNER JOIN → only matching rows; LEFT JOIN → all left table + matched right.
+
+Video: Top 20 Data Analyst Interview Questions (20 min)
+
+
+📈 Lesson 4: Personal Branding & LinkedIn Strategy
+=======================================================
+Summary:
+Your LinkedIn = your digital resume + network hub.
+Tips:
+--------
+Post 2-3 times/week sharing learnings (like this Day series 🎉)
+Engage with recruiters & professionals
+Add featured section: GitHub / portfolio links
+
+Example:
+Pinned post → “My Data Analytics Portfolio – 5 Projects You Can Explore!”
+
+Video: LinkedIn Branding for Data Analysts (15 min)
+
+
+💼 Lesson 5: Case Study – From Learning to Landing a Job
+========================================================
+Summary:
+Combine everything you’ve learned:1️⃣ Showcase projects on GitHub
+2️⃣ Optimize resume + LinkedIn
+3️⃣ Practice mock interviews
+4️⃣ Reach out to recruiters & mentors
+
+Example:
+A data learner shared consistent LinkedIn posts + portfolio and landed a job at TCS in 3 months 🚀
+
+Video: Data Analyst Job Hunt Guide (Full Session)
+
+
